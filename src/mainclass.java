@@ -18,6 +18,6 @@ public class mainclass
 {
     public static void main(String[] args)
     {
-        Third c = new Third();
+        Third main = new Third();
     }
 }
