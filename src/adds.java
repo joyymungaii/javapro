@@ -7,7 +7,7 @@ interface Adding {
 public class adds {
     public static void main(String[] args) {
         int num1 = 5;
-        int num2 = 10;
+        int num2 = 11;
 
         int sum = Adding.add(num1, num2);
 
